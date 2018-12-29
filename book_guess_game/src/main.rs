@@ -1,6 +1,7 @@
 /*
-* Chapter 1 Guess Game Project
+* Chapter 2 Guess Game Project
 * The Rust Programming Language
+* https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 */
 
 use std::io;
