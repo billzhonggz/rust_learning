@@ -21,6 +21,14 @@ Record the correct progress here.
 
 * [x] Guessing Game from [Chapter 2](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html).
 
+## Environment
+
+> This may be updated over time.
+
+* Windows 10 1809
+* Rust 1.31.1 (epoch 2018), MSVC toolchain
+* Intellij IDEA 2018.3.2
+
 ## License
 
 MIT
